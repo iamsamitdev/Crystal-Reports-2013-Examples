@@ -1,0 +1,12 @@
+c:\users\administrator\documents\visual studio 2013\Projects\EmployeeReport\EmployeeReport\bin\Debug\EmployeeReport.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\EmployeeReport\EmployeeReport\bin\Debug\EmployeeReport.exe
+c:\users\administrator\documents\visual studio 2013\Projects\EmployeeReport\EmployeeReport\bin\Debug\EmployeeReport.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\EmployeeReport\EmployeeReport\bin\Debug\EmployeeReport.xml
+c:\users\administrator\documents\visual studio 2013\Projects\EmployeeReport\EmployeeReport\obj\Debug\EmployeeReport.DisplayEmployee.resources
+c:\users\administrator\documents\visual studio 2013\Projects\EmployeeReport\EmployeeReport\obj\Debug\EmployeeReport.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\EmployeeReport\EmployeeReport\obj\Debug\EmployeeReport.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\EmployeeReport\EmployeeReport\obj\Debug\EmployeeReport.exe
+c:\users\administrator\documents\visual studio 2013\Projects\EmployeeReport\EmployeeReport\obj\Debug\EmployeeReport.xml
+c:\users\administrator\documents\visual studio 2013\Projects\EmployeeReport\EmployeeReport\obj\Debug\EmployeeReport.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmployeeReport\EmployeeReport\obj\Debug\EmployeeReport.vbprojResolveAssemblyReference.cache
+C:\Users\Administrator\documents\visual studio 2013\Projects\EmployeeReport\EmployeeReport\bin\Debug\Employee.rpt

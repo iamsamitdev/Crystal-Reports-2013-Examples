@@ -1,0 +1,11 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmpReport\EmpReport\bin\EmpReport.dll.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmpReport\EmpReport\bin\EmpReport.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmpReport\EmpReport\bin\EmpReport.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmpReport\EmpReport\bin\EmpReport.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmpReport\EmpReport\obj\Debug\EmpReport.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmpReport\EmpReport\obj\Debug\EmpReport.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmpReport\EmpReport\obj\Debug\EmpReport.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmpReport\EmpReport\obj\Debug\EmpReport.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmpReport\EmpReport\obj\Debug\EmpReport.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmpReport\EmpReport\bin\Reports\Employee.rpt
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\EmpReport\EmpReport\obj\Debug\EmpReport.vbprojResolveAssemblyReference.cache
